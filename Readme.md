@@ -1,4 +1,4 @@
-# 🛬2D Airport Runway Simulator🛫
+# 🛬 2D Airport Runway Simulator 🛫
 
 A 2D computer graphics project developed in C++ using OpenGL and GLUT/FreeGLUT framework in Code::Blocks. The application simulates a dynamic airport complex featuring an airplane takeoff sequence, ground support vehicles, facility infrastructure, and a custom vector-based font engine.
 
