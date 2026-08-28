@@ -22,9 +22,8 @@ This project models a fully functional, labeled airport environment constructed 
    2. Fire & Rescue Station: Houses emergency response vehicles.
    3. Air Traffic Control (ATC) Tower: Multi-tiered observation tower positioned centrally.
    4. Terminal 1: Multi-story terminal structure rendered with linear color gradients.
-4. **Ground Support & Logistics:** Rendered emergency vehicles (Fire Engine and Ambulance) stationed on operational service lanes.
-5. **Environment & Sky Operations:** Procedural background tree canopy, dynamic layered clouds, and dual-layer runway markings with conditional landing gear rendering based on altitude.
-6. **Smooth Frame Timing:** Utilizes `glutTimerFunc` running at 60 FPS (~16ms refresh rate) for fluid movement.
+4. **Environment & Sky Operations:** Procedural background tree canopy, dynamic layered clouds, and dual-layer runway markings with conditional landing gear rendering based on altitude.
+5. **Smooth Frame Timing:** Utilizes `glutTimerFunc` running at 60 FPS (~16ms refresh rate) for fluid movement.
 
 ---
 
