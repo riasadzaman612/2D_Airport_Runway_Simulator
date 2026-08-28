@@ -6,7 +6,7 @@ A 2D computer graphics project developed in C++ using OpenGL and GLUT/FreeGLUT f
 
 ## 📷 Preview
 
-![2D_Airport_Runway_Simulator](preview/Screenshot.png)
+![2D_Airport_Runway_Simulator](screenshots/demo.png)
 
 
 ---
